@@ -135,12 +135,12 @@
         t = document.querySelector(".games__field"),
         o = document.querySelector(".games__close"),
         r = {
-          olympgate:
-            "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=EUR&gameSymbol=vs20olympgate&websiteUrl=http%3A%2F%2Fdemogamesfree.pragmaticplay.net",
+          fortune:
+            "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=EUR&gameSymbol=vs243fortune&websiteUrl=http%3A%2F%2Fdemogamesfree.pragmaticplay.net",
           wolf:
             "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=EUR&gameSymbol=vs25wolfgold&websiteUrl=http%3A%2F%2Fdemogamesfree.pragmaticplay.net",
-          doghouse:
-            "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=EUR&gameSymbol=vs20doghouse&websiteUrl=http%3A%2F%2Fdemogamesfree.pragmaticplay.net",
+          pandagold:
+            "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=EUR&gameSymbol=vs25pandagold&websiteUrl=http%3A%2F%2Fdemogamesfree.pragmaticplay.net",
         },
         s = document.createElement("iframe");
       s.classList.add("games__frame"),
